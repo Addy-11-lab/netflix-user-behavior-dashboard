@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.streamlit/
+data/raw/*.csv
+data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
