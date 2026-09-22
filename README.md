@@ -2,7 +2,17 @@
 
 A polished Streamlit product-analytics dashboard for understanding user behavior, identifying churn risk, and designing the next growth experiment. It is built as a portfolio project for Product Manager, Growth PM, and Product Analyst roles.
 
-> **Live local app:** run `streamlit run app.py` and open the URL Streamlit displays.
+## 🚀 Live Dashboard
+
+**[View the Live Netflix User Analytics Dashboard]((https://netflix-user-behavior.streamlit.app/))**
+
+<img width="1821" height="682" alt="image" src="https://github.com/user-attachments/assets/007867b0-ac8c-4b47-873d-38341dcecafc" />
+
+
+Explore the interactive dashboard to analyze user engagement, churn,
+recency, plans, devices, genres, and product-growth opportunities.
+
+> The dashboard is deployed using Streamlit Community Cloud.
 
 ## Product questions answered
 
