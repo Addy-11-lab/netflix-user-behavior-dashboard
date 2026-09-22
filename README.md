@@ -52,13 +52,6 @@ Therefore, this MVP **does not fabricate** an event funnel, D1/D7/D30 retention,
 5. Run `streamlit run app.py`.
 6. Run `pytest` before presenting or deploying.
 
-On this workspace, use the bundled runtime if `python` is not on your PATH:
-
-```powershell
-& "C:\Users\Aditya\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" -m streamlit run app.py
-```
-
-The original file is ignored by Git. The pipeline only reads it and creates a separate processed file.
 
 ## Project structure
 
@@ -79,11 +72,6 @@ docs/                   # PM artifacts and delivery prompts
 - **Recency:** 0–7 active, 8–30 at risk, and 31+ dormant days since last login.
 - **Tenure cohort:** buckets of `account_age_months`; it is not a calendar signup cohort.
 
-## Portfolio narrative
-
-Start with the user problem: a growth PM lacks a reliable way to distinguish broad churn from a concentrated behavior or segment. Show the dashboard, explain the data limitations, propose the personalized-onboarding experiment, and close with the event-tracking plan needed to validate the bet.
-
-See [docs/CODEX_WORKFLOW.md](docs/CODEX_WORKFLOW.md) for sequential prompts and [docs/PM_CASE_STUDY.md](docs/PM_CASE_STUDY.md) for the case-study scaffold.
 
 ## Tech stack
 
