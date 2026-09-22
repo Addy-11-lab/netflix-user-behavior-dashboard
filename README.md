@@ -4,7 +4,7 @@ A polished Streamlit product-analytics dashboard for understanding user behavior
 
 ## 🚀 Live Dashboard
 
-**[View the Live Netflix User Analytics Dashboard]((https://netflix-user-behavior.streamlit.app/))**
+**[View the Live Netflix User Analytics Dashboard](https://netflix-user-behavior.streamlit.app/)**
 
 <img width="1821" height="682" alt="image" src="https://github.com/user-attachments/assets/007867b0-ac8c-4b47-873d-38341dcecafc" />
 
