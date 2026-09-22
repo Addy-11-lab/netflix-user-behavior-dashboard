@@ -2,7 +2,7 @@
 
 A polished Streamlit product-analytics dashboard for understanding user behavior, identifying churn risk, and designing the next growth experiment.
 
-## 🚀 Live Dashboard
+## Live Dashboard
 
 **[View the Live Netflix User Analytics Dashboard](https://netflix-user-behavior.streamlit.app/)**
 
