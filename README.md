@@ -29,9 +29,6 @@ A polished Streamlit product-analytics dashboard for understanding user behavior
 - A/B-test hypothesis, primary metric, guardrails, and sample-size estimate
 - Product recommendations that distinguish observation, hypothesis, and decision
 
-## Screenshots
-
-Run the dashboard locally to view the full interactive experience. Before publishing, capture overview, retention, and recommendations views into `assets/screenshots/` and embed them here. The dashboard is designed at runtime from the source dataset, so screenshots should be refreshed after material UI changes.
 
 ## Dataset assessment
 
