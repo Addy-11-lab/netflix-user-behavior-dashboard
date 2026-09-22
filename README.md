@@ -1,6 +1,6 @@
 # Netflix User Behavior Analytics
 
-A polished Streamlit product-analytics dashboard for understanding user behavior, identifying churn risk, and designing the next growth experiment. It is built as a portfolio project for Product Manager, Growth PM, and Product Analyst roles.
+A polished Streamlit product-analytics dashboard for understanding user behavior, identifying churn risk, and designing the next growth experiment.
 
 ## 🚀 Live Dashboard
 
